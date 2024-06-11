@@ -10,3 +10,14 @@ cd ./instalador && sudo ./install_instancia
 ```
 
 https://github.com/juniorfdtech/instalador.git
+
+PARA UPDATES - ENTRAR NA PASTA E FAZER O BUILD NOVAMENTE:
+
+```
+npm run build
+```
+REINICIAR O PM2:
+
+```
+pm2 restart all
+```
